@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: If you use this repository, please cite it.
+title: "elasticsearch-sre-platform"
+type: software
+authors:
+  - family-names: Deputat
+    given-names: Boryslav
+    email: info@boryslavdeputat.com
+repository-code: "https://github.com/boryslavdeputat/elasticsearch-sre-platform"
+url: "https://github.com/boryslavdeputat/elasticsearch-sre-platform"
+license: MIT
+keywords:
+  - boryslav-deputat
+  - cloud
+  - sre
